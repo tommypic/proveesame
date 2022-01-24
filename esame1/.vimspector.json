@@ -1,0 +1,14 @@
+{
+  "configurations": {
+    "Launch": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "launch",
+        "program": "/home/tommaso/proveesame/esame1/a.out",
+        "cwd": "/home/tommaso/proveesame/esame1",
+        "externalConsole": true,
+        "MIMode": "gdb"
+      }
+    }
+  }
+}
